@@ -6,26 +6,26 @@
 
 ``` 
 运算符：
-		关系运算符
-		逻辑运算符
-		自增自减运算符
-		三元运算符
+	关系运算符
+	逻辑运算符
+	自增自减运算符
+	三元运算符
     
 Scanner使用
-		导包  import java.util.Scanner;
-		声明  Scanner sc = new Scanner(System.in);
-		方法  nextInt(); nextDouble(); nextLine();
+  导包  import java.util.Scanner;
+  声明  Scanner sc = new Scanner(System.in);
+  方法  nextInt(); nextDouble(); nextLine();
 		
 分支结构
-		if
-		if - else
-		if - else if
-		switch - case
-		
+  if
+  if - else
+  if - else if
+  switch - case
+
 局部变量
-		1. 作用域
-		2. 重定义问题
-		3. 未定义、未赋值不能使用
+  1. 作用域
+  2. 重定义问题
+  3. 未定义、未赋值不能使用
 ```
 
 ## 2. 循环结构
@@ -34,9 +34,9 @@ Scanner使用
 
 ```
 某功能多次使用时，CV大法缺点：
-		1. 代码过于臃肿，AJCG规定方法体代码小于80行
-		2. 代码阅读性极差
-		3. 代码维护性差
+  1. 代码过于臃肿，AJCG规定方法体代码小于80行
+  2. 代码阅读性极差
+  3. 代码维护性差
 ```
 
 ### 2.2 while 循环
@@ -119,9 +119,9 @@ for (/* 循环条件初始化 */; /* 循环条件判断 */; /* 循环条件变�
 
 ```
 1. 循环解决了一部分复用问题，但治标不治本
-    a. 代码过于臃肿
-    b. 阅读性极差
-    c. 维护性极差
+  a. 代码过于臃肿
+  b. 阅读性极差
+  c. 维护性极差
 ```
 
 ### 3.2 main 方法分析
