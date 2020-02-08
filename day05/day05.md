@@ -181,7 +181,7 @@ public static int getSumOfTwoNumber(int num1, int num2) {
 * 当前方法的具体解释，说明利害关系
 *
 * @param arguments 参数名字 功能解释，参数要求
-*	@return 返回值解释，数据类型，返回值函数，状态，要求
+* @return 返回值解释，数据类型，返回值函数，状态，要求
 */
 ```
 

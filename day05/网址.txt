@@ -1,0 +1,7 @@
+GitHub
+    https://github.com/ScorpioDong/JavaNotes
+
+Blog
+    Mac 系统下Java开发环境的配置和多版本切换
+    https://blog.csdn.net/m0_37771142/article/details/104228440
+
