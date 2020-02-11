@@ -22,7 +22,7 @@ class HomeWork4 {
      * @param num int类型数据， 要插入的数据
     */
     public static void insert(int[] arr, int index, int num) {
-        if (index > arr.length - 1) {
+        if (index > arr.length - 1 || index < 0) {
             System.out.println("插入的位置错误！！");
             System.exit(0);
         }

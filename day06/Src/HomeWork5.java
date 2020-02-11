@@ -16,18 +16,18 @@ class HomeWork5 {
         形参列表（int[] arr, int index)
     */
     /**
-     * 在指定位置插入指定元素
+     * 在指定位置删除指定元素
      * 
      * @param arr int类型数组
-     * @param index int类型数据，要插入的位置
+     * @param index int类型数据，要删除的位置
     */
     public static void delete(int[] arr, int index) {
-        if (index > arr.length - 1) {
-            System.out.println("插入的位置错误！！");
+        if (index > arr.length - 1 || index < 0) {
+            System.out.println("删除的位置错误！！");
             System.exit(0);
         }
 
-        for (int i = index; i < arr.length - 2; i++) {
+        for (int i = index; i < arr.length - 1; i++) {
             arr[i] = arr[i + 1];
         }
 

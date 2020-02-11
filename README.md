@@ -6,4 +6,5 @@
 - [Day 04 循环结构](./day04/day04.md)
 - [Day 05 方法](./day05/day05.md)
 - [Day 06 数组](./day06/day06.md)
+- [Day 07 Eclipse和数组算法](./day07/day07.md)
 - [自我介绍](./自我介绍.md)
