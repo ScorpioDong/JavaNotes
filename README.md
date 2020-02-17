@@ -8,5 +8,7 @@
 - [Day 06 数组](./day06/day06.md)
 - [Day 07 Eclipse和数组算法](./day07/day07.md)
 - [Day 08 面向对象](./day08/day08.md)
-- [Day 09 面向对象的三大特征](./day09/day09.md)
+- [Day 09 面向对象的三大特征 一](./day09/day09.md)
+- [Day 10 面向对象的三大特征 二](./day10/day10.md)
+- [Day 11 面向对象的三大特征 三](./day11/day11.md)
 - [自我介绍](./自我介绍.md)
