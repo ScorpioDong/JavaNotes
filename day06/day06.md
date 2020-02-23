@@ -69,7 +69,7 @@
 
 ### 1.5 数据内存分析图
 
-![image-20200210223431964](/Users/scorpio/Desktop/Java/day06/day06.assets/image-20200210223431964.png)
+![image-20200210223431964](day06.assets/image-20200210223431964.png)
 
 ### 1.6 数组和循环
 
@@ -104,7 +104,7 @@ class Demo3 {
 }
 ```
 
-![image-20200210223547457](/Users/scorpio/Desktop/Java/day06/day06.assets/image-20200210223547457.png)
+![image-20200210223547457](day06.assets/image-20200210223547457.png)
 
 ### 1.8 数组和方法之间的关系
 
