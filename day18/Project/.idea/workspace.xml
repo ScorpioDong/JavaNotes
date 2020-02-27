@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5df1763-c828-40e4-b131-318c97679618" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Project" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XvpXXczANBd1mvELJ5Kiam0Z4Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/cn/scorpiodong/student/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="cn.scorpiodong.student.entity" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SystemTest.testLoad">
+    <configuration name="SystemTest.testLoad" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StudentManageSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.scorpiodong.student.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.scorpiodong.student.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.scorpiodong.student.test.SystemTest" />
+      <option name="METHOD_NAME" value="testLoad" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemTest.testMyArrayList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StudentManageSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.scorpiodong.student.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.scorpiodong.student.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.scorpiodong.student.test.SystemTest" />
+      <option name="METHOD_NAME" value="testMyArrayList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemTest.testMyLinkedList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StudentManageSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.scorpiodong.student.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.scorpiodong.student.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.scorpiodong.student.test.SystemTest" />
+      <option name="METHOD_NAME" value="testMyLinkedList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemTest.testSave" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StudentManageSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.scorpiodong.student.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.scorpiodong.student.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.scorpiodong.student.test.SystemTest" />
+      <option name="METHOD_NAME" value="testSave" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemTest.testSourceCodePro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StudentManageSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.scorpiodong.student.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.scorpiodong.student.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.scorpiodong.student.test.SystemTest" />
+      <option name="METHOD_NAME" value="testSourceCodePro" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SystemTest.testLoad" />
+        <item itemvalue="JUnit.SystemTest.testSave" />
+        <item itemvalue="JUnit.SystemTest.testMyLinkedList" />
+        <item itemvalue="JUnit.SystemTest.testSourceCodePro" />
+        <item itemvalue="JUnit.SystemTest.testMyArrayList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5df1763-c828-40e4-b131-318c97679618" name="Default Changelist" comment="" />
+      <created>1581936462748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581936462748</updated>
+      <workItem from="1582533607344" duration="551000" />
+      <workItem from="1582534388839" duration="8000" />
+      <workItem from="1582534421499" duration="359000" />
+      <workItem from="1582544472302" duration="145000" />
+      <workItem from="1582544779505" duration="3095000" />
+      <workItem from="1582601339076" duration="55000" />
+      <workItem from="1582601756066" duration="142000" />
+      <workItem from="1582601933151" duration="415000" />
+      <workItem from="1582716462670" duration="5212000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="460" y="93" key="#Vim_Emulation" timestamp="1582376226677">
+      <screen x="0" y="23" width="1920" height="971" />
+    </state>
+    <state x="460" y="93" key="#Vim_Emulation/0.23.1920.971@0.23.1920.971" timestamp="1582376226677" />
+    <state x="678" y="304" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582376213924">
+      <screen x="0" y="23" width="1920" height="971" />
+    </state>
+    <state x="678" y="304" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.971@0.23.1920.971" timestamp="1582376213924" />
+    <state x="711" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1582719305292">
+      <screen x="0" y="23" width="1920" height="971" />
+    </state>
+    <state x="711" y="143" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1581938150166" />
+    <state x="711" y="152" key="#com.intellij.ide.util.MemberChooser/0.23.1920.971@0.23.1920.971" timestamp="1582719305292" />
+    <state width="1878" height="422" key="GridCell.Tab.0.bottom" timestamp="1582723951793">
+      <screen x="0" y="23" width="1920" height="971" />
+    </state>
+    <state width="1878" height="422" key="GridCell.Tab.0.bottom/0.23.1920.971@0.23.1920.971" timestamp="1582723951793" />
+    <state width="1878" height="422" key="GridCell.Tab.0.center" timestamp="1582723951792">
+      <screen x="0" y="23" width="1920" height="971" />
+    </state>
+    <state width="1878" height="422" key="GridCell.Tab.0.center/0.23.1920.971@0.23.1920.971" timestamp="1582723951792" />
+    <state width="1878" height="422" key="GridCell.Tab.0.left" timestamp="1582723951791">
+      <screen x="0" y="23" width="1920" height="971" />
+    </state>
+    <state width="1878" height="422" key="GridCell.Tab.0.left/0.23.1920.971@0.23.1920.971" timestamp="1582723951791" />
+    <state width="1878" height="422" key="GridCell.Tab.0.right" timestamp="1582723951792">
+      <screen x="0" y="23" width="1920" height="971" />
+    </state>
+    <state width="1878" height="422" key="GridCell.Tab.0.right/0.23.1920.971@0.23.1920.971" timestamp="1582723951792" />
+    <state x="628" y="97" key="SettingsEditor" timestamp="1582602317084">
+      <screen x="0" y="23" width="1920" height="971" />
+    </state>
+    <state x="473" y="80" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1581938167004" />
+    <state x="628" y="97" key="SettingsEditor/0.23.1920.971@0.23.1920.971" timestamp="1582602317084" />
+    <state x="747" y="282" key="chooseDestDirectoryDialog" timestamp="1581942914201">
+      <screen x="0" y="23" width="1920" height="971" />
+    </state>
+    <state x="747" y="282" key="chooseDestDirectoryDialog/0.23.1920.971@0.23.1920.971" timestamp="1581942914201" />
+    <state x="653" y="341" key="com.intellij.ide.util.TipDialog" timestamp="1582533609725">
+      <screen x="0" y="23" width="1920" height="971" />
+    </state>
+    <state x="653" y="341" key="com.intellij.ide.util.TipDialog/0.23.1920.971@0.23.1920.971" timestamp="1582533609725" />
+    <state x="708" y="325" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1581941041990">
+      <screen x="0" y="23" width="1920" height="971" />
+    </state>
+    <state x="708" y="325" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1920.971@0.23.1920.971" timestamp="1581941041990" />
+    <state x="672" y="135" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1581941949408">
+      <screen x="0" y="23" width="1920" height="971" />
+    </state>
+    <state x="672" y="135" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1920.971@0.23.1920.971" timestamp="1581941949408" />
+    <state x="584" y="78" width="752" height="861" key="find.popup" timestamp="1581939103131">
+      <screen x="0" y="23" width="1920" height="971" />
+    </state>
+    <state x="584" y="78" width="752" height="861" key="find.popup/0.23.1920.971@0.23.1920.971" timestamp="1581939103130" />
+    <state x="389" y="131" key="new project wizard" timestamp="1582602414347">
+      <screen x="0" y="23" width="1920" height="971" />
+    </state>
+    <state x="389" y="131" key="new project wizard/0.23.1920.971@0.23.1920.971" timestamp="1582602414347" />
+    <state x="543" y="143" width="709" height="635" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1581937239385">
+      <screen x="0" y="23" width="1920" height="971" />
+    </state>
+    <state x="543" y="143" width="709" height="635" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.23.1920.971@0.23.1920.971" timestamp="1581937239385" />
+    <state x="541" y="23" width="838" height="1032" key="search.everywhere.popup" timestamp="1582547715663">
+      <screen x="0" y="23" width="1920" height="971" />
+    </state>
+    <state x="541" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1920.971@0.23.1920.971" timestamp="1582547715663" />
+  </component>
+</project>
