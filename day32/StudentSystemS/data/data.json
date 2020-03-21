@@ -1,0 +1,57 @@
+{
+  0: {
+    "age": 12,
+    "chnScore": 100,
+    "engScore": 100,
+    "gender": false,
+    "id": 0,
+    "mathScore": 100,
+    "name": "骚磊",
+    "rank": 0,
+    "totalScore": 300
+  },
+  1: {
+    "age": 12,
+    "chnScore": 100,
+    "engScore": 100,
+    "gender": false,
+    "id": 1,
+    "mathScore": 100,
+    "name": "骚磊",
+    "rank": 0,
+    "totalScore": 300
+  },
+  2: {
+    "age": 12,
+    "chnScore": 100,
+    "engScore": 100,
+    "gender": false,
+    "id": 2,
+    "mathScore": 100,
+    "name": "骚磊",
+    "rank": 0,
+    "totalScore": 300
+  },
+  3: {
+    "age": 12,
+    "chnScore": 100,
+    "engScore": 100,
+    "gender": false,
+    "id": 3,
+    "mathScore": 100,
+    "name": "骚磊",
+    "rank": 0,
+    "totalScore": 300
+  },
+  4: {
+    "age": 12,
+    "chnScore": 100,
+    "engScore": 100,
+    "gender": false,
+    "id": 4,
+    "mathScore": 100,
+    "name": "骚磊",
+    "rank": 0,
+    "totalScore": 300
+  }
+}
